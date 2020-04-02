@@ -23,4 +23,4 @@ The next complexity is computing p[i, j]. Consider a simple example, p [411, 321
 
 The code does this both in floating point for simplicity and arbitrary precision rational numbers to see if there is any observable pattern. I can't find one.
 
-See pall.out for the answers.
+See rall.out for the answers.
